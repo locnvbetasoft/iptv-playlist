@@ -142,7 +142,7 @@ https://iptv-org.github.io/iptv/subdivisions/co-atl.m3u
 https://iptv-org.github.io/iptv/subdivisions/gr-i.m3u
 ```
 
-**Australia**
+**Australhttps://iptv-org.github.io/iptv/countries/kw.m3uia**
 ```
 https://iptv-org.github.io/iptv/countries/au.m3u
 ```
